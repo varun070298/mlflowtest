@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/varun/PycharmProjects/Lmodel/mlruns/0/7a338da15ad447cb9f1ff1f48d78fc0d/artifacts
+end_time: 1644835560888
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 7a338da15ad447cb9f1ff1f48d78fc0d
+run_uuid: 7a338da15ad447cb9f1ff1f48d78fc0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1644835560810
+status: 4
+tags: []
+user_id: varun
